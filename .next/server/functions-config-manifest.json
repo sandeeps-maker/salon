@@ -1,1 +1,1 @@
-{"version":1,"functions":{"/api/appointments/[id]/status":{},"/api/admin/salons":{}}}
+{"version":1,"functions":{"/api/appointments":{},"/api/appointments/[id]/status":{},"/api/admin/salons":{}}}
